@@ -1,2 +1,5 @@
-Jordan Lambino | jlambino@ucsd.edu
-Section B15 | Yu-Xiang Wang
+Name | Jordan Lambino
+Email | jlambino@ucsd.edu
+
+Section | B15
+Mentor | Yu-Xiang Wang
